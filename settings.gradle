@@ -1,0 +1,3 @@
+rootProject.name = 'kotler'
+
+include 'core'
